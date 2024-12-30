@@ -1,0 +1,213 @@
+{
+  "heading": "Realistic Fiction",
+  "topics": [
+    {
+      "heading": "Realistic Fiction",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What was Max nervous about?",
+          "options": [
+            { "text": "His first soccer game" },
+            { "text": "The big soccer game" },
+            { "text": "His Homework" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Who gave Max advice before the game?",
+          "options": [
+            { "text": "His coach" },
+            { "text": "His mom" },
+            { "text": "His best friend" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "What did Max do after the other team scored?",
+          "options": [
+            { "text": "He felt discouraged but kept playing" },
+            { "text": "He gave up" },
+            { "text": "He left the game" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "What did Max do during the second half of the game?",
+          "options": [
+            { "text": "He scored a goal" },
+            { "text": "He sat out" },
+            { "text": "He cheered for his teammates" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "How did Max’s team react after he scored?",
+          "options": [
+            { "text": "They ignored the goal" },
+            { "text": "They were upset" },
+            { "text": "They cheered and celebrated" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 6,
+          "question": "Did Max’s team win the game?",
+          "options": [
+            { "text": "Yes" },
+            { "text": "No" },
+            { "text": "They tied" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "What did Max’s mom say to him after the game?",
+          "options": [
+            { "text": "You could have done better" },
+            { "text": "I’m so proud of you" },
+            { "text": "You should practice more" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "What does the story \"Max’s Big Game\" teach us?",
+          "options": [
+            { "text": "That it’s okay to give up" },
+            { "text": "That winning is the most important thing" },
+            { "text": "That trying your best is what really matters" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 9,
+          "question": "What is the main theme of the story?",
+          "options": [
+            { "text": "Friendship" },
+            { "text": "Practice makes perfect" },
+            { "text": "Doing your best in the face of challenges" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "What type of story is \"Max’s Big Game\"?",
+          "options": [
+            { "text": "Fantasy" },
+            { "text": "Realistic Fiction" },
+            { "text": "Mystery" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "Why did Max feel proud of himself?",
+          "options": [
+            { "text": "Because he won the game" },
+            { "text": "Because he played his best" },
+            { "text": "Because he scored the most goals" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "Which of the following is not a part of the story?",
+          "options": [
+            { "text": "Max practising soccer every day" },
+            { "text": "Max feeling nervous before the game" },
+            { "text": "Max playing a game against a dragon" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "How does Max’s mom help him?",
+          "options": [
+            { "text": "She gives him tips for the game" },
+            { "text": "She cheers for the other team" },
+            { "text": "She takes him to a new soccer field" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "What lesson does Max learn about winning?",
+          "options": [
+            { "text": "Winning is the most important part of sports" },
+            { "text": "Trying your best is more important than winning" },
+            { "text": "Winning means you get to stop practising" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "Why is this story realistic fiction?",
+          "options": [
+            { "text": "It includes magic" },
+            { "text": "It is about a real-life event that could happen" },
+            { "text": "It is about animals who play soccer" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "What does \"doing your best\" mean?",
+          "options": [
+            { "text": "Trying as hard as you can" },
+            { "text": "Giving up when things get tough" },
+            { "text": "Letting others play for you" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of these is an example of realistic fiction?",
+          "options": [
+            { "text": "A boy finds a dragon in his backyard" },
+            { "text": "A girl learning how to swim in her neighbourhood pool" },
+            { "text": "A dog that can fly to space" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "Which of these is not a feature of realistic fiction?",
+          "options": [
+            { "text": "The story feels like it could happen in real life." },
+            { "text": "The characters are people or animals acting like humans." },
+            { "text": "The story is set in a magical land." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "What type of characters are in realistic fiction?",
+          "options": [
+            { "text": "Magical fairies and wizards" },
+            { "text": "Regular people or animals in realistic roles" },
+            { "text": "Robots and aliens" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "Which setting is most likely in realistic fiction?",
+          "options": [
+            { "text": "A school, park, or neighbourhood" },
+            { "text": "A castle in a magical kingdom" },
+            { "text": "A spaceship flying through the stars" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+      
+    }
+  ]
+}
